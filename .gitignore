@@ -8,6 +8,8 @@ __pycache__
 *.csv
 *.log.*
 *.png:
+getData.py
+makeData.py
 
 # default config
 !*_default.json
